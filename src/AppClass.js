@@ -39,7 +39,7 @@ export default class AppWithClass extends React.Component {
 
     return (
       <div className="App">
-        <h2>Signature</h2>
+        <h2>Auto generated signature</h2>
         <input
           type="text"
           value={inputVal}
