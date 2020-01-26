@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contain {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  box-shadow: 0px 2px 4px #eee;
+  padding: 32px;
+  margin-top: 24px;
+  max-width: 768px;
+  width: 100%;
+}
+
+.h2 {
+  font-size: 28px;
+  margin-bottom: 16px;
+}
+
+.block {
+  background: #f6f6f6;
+  padding: 16px;
+}
+
+.signature {
+  font-family: cursive, Helvetica;
+  height: 140px;
+}
